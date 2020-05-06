@@ -1,1 +1,1 @@
-{\rtf1}
+print ("my_project")
