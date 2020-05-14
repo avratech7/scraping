@@ -18,4 +18,4 @@ def scraping_wikipedia (url_address , *label):
     
   return(pargraphs)
   
-print(scraping_wikipedia(url)
+print(scraping_wikipedia(url))
